@@ -1,0 +1,27 @@
+<style>
+<p id="new"> {background-color:#f5f5dc;
+padding:20px;
+font-family: Veranda}
+#yls {float:left;}
+</style>
+<style> .new {color-#FF0000; 
+border-style: dotted; color-#0000FF}
+</style>
+<style>
+<p id="new"> {position: absolute;
+right: 40px;
+top; 20px; 
+background-color:#D3D3D3;
+border-style: solid; }
+</style>
+<style> .new {position: relative;
+left: 15px;
+background-color:#7FFF00;}
+</style>
+<style>
+<p id="new"> {position: fixed;
+background-color:#D3D3D3;
+font-weight: bold;
+padding:10px}
+</style>
+
